@@ -1,4 +1,4 @@
-# myProject
+# Restaurant Management System
 Academic Project : Restaurant POS Software , 
 Technology : C#   ,
   IDE : Microsoft Visual Studio ,
